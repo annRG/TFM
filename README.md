@@ -22,3 +22,4 @@ Este proyecto consta de dos partes:
   
   DATOS_X2,DATOS_Y2 : Archivos con todos los datos para entrenar el modelo sin dimension
   
+  SSVI: representacion de la superficie de volatilidad con las predicciones y los datos reales.
